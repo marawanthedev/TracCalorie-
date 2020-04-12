@@ -1,0 +1,45 @@
+body{
+
+    font-family: 'Oswald', sans-serif;
+    background: url(https://media.giphy.com/media/l0HU6nazRbCdcMCAg/giphy.gif);
+
+    /* background-size:cover; */
+    background-position:center ;
+    -webkit-background-clip:text;
+
+}
+.rounded{
+    border-radius: 3%;
+}
+
+ul{
+    position: relative;
+    font-size: 20px;
+
+    font-family: 'Playfair Display', serif;
+
+}
+.brand-logo{
+
+    font-family: 'Lobster', cursive;
+
+}
+h3{
+    font-family: 'Dosis', sans-serif;
+
+}
+.item-name{
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 20%;
+
+}
+.item-calories{
+
+    position: absolute;
+    right:30%
+}
+#white{
+    background: white;
+}
+
